@@ -1,0 +1,18 @@
+
+
+#imgtopo{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav {
+    height: 70px;
+}
+
+nav ul a {
+    font-size: 18px;
+    text-align: center;
+}
+
